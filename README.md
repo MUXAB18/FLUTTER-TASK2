@@ -3,7 +3,7 @@
 This Flutter app demonstrates basic state management with `setState` and local persistence using `SharedPreferences`.
 
 Features
-- Counter page
+- Counter Screen
   - Increase and decrease a counter
   - Counter value is saved to SharedPreferences and restored on app restart
 - To-Do page
