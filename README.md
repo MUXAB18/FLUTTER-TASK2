@@ -12,7 +12,7 @@ Features
   - Remove tasks (swipe to delete)
   - Tasks are saved to SharedPreferences and restored on app restart
 
-How to run
+How to run this app
 
 1. Ensure Flutter is installed and working (see https://flutter.dev/docs/get-started/install).
 2. From the project root run:
