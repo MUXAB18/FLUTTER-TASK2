@@ -1,4 +1,4 @@
-# To-Do & Counter Demo
+# To-Do & Counter App
 
 This Flutter app demonstrates basic state management with `setState` and local persistence using `SharedPreferences`.
 
